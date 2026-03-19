@@ -1,0 +1,5 @@
+{
+  "name": "Excel Validator AI",
+  "description": "An intelligent Excel validation tool that interprets custom text-based rules using Gemini AI and filters invalid rows into a downloadable report.",
+  "requestFramePermissions": []
+}
